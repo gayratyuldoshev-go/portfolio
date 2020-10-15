@@ -468,3 +468,7 @@ img {
   text-decoration: none;
   color: #999;
 }
+
+.links:hover {
+  color: #666;
+}
